@@ -5,13 +5,6 @@
       <paths name="hscc lab server">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/albert/projects/optuna_experiment" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="hscc lab server (1)">
-        <serverdata>
-          <mappings>
             <mapping deploy="/home/albert/projects/optuna_experiment" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
