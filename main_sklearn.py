@@ -51,7 +51,7 @@ def objective(trial):
 
 
 study = optuna.create_study(direction='maximize')
-study.optimize(objective, n_trials=500)
+study.optimize(objective, n_trials=10)
 
 trial = study.best_trial
 
